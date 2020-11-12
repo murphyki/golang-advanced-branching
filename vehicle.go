@@ -2,7 +2,7 @@ package main
 
 import (
 	"encoding/json"
-	"golang.org/x/tools/go/ssa/interp/testdata/src/fmt"
+	"fmt"
 	"io/ioutil"
 	"log"
 	"os"
